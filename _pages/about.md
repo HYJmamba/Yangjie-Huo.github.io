@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year master’s student at Hunan University of Commerce, with a bachelor’s degree from the School of Computer Science at Northwestern Polytechnical University. My research interests include small-sample learning and meta-learning. 
+I am a third-year master’s student at Hunan University of Technology and Business, with a bachelor’s degree from the School of Computer Science at Northwestern Polytechnical University. My research interests include small-sample learning and meta-learning. 
 
 I am very fortunate to be advised by Academician Chen Xiaohong, an academician of the Chinese Academy of Engineering and director of Xiangjiang Laboratory.
 
